@@ -1,8 +1,0 @@
-dong thu nhat
-<<<<<<< HEAD
-dong thu 2
-=======
-donh thu 2
-
-dong thu 3
->>>>>>> 601ccadb7b54bc26be70f72ede9fe1e6abd8047b
